@@ -1,0 +1,29 @@
+header h1 {
+    letter-spacing: 10px;
+}
+
+.box {
+    width: 200px;
+    height: 120px;
+    background-color: red;
+    display: inline-block;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.purple {
+    background-color: purple;
+    border: 3px solid green;
+}
+
+[type="text"] {
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+[type="email"] {
+    border: 2px solid rgb(160, 149, 149);
+    border-radius: 5px;
+}
